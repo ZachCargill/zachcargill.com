@@ -40,7 +40,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "serve -s build",
+    "buildfile": "react-scripts build",
     "build:storybook": "build-storybook -o build-storybook",
     "postbuild": "react-snap",
     "deploy": "aws s3 sync --delete build/ s3://hamish-portfolio-site",
