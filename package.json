@@ -50,6 +50,7 @@
     "storybook": "start-storybook -p 9009 -s public",
     "analyze": "source-map-explorer 'build/static/js/*.js'"
   },
+  "heroku-run-build-script": false,
   "reactSnap": {
     "skipThirdPartyRequests": true,
     "headless": true,
