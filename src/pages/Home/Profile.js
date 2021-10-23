@@ -30,7 +30,7 @@ const ProfileText = ({ status, titleId }) => (
       className={classNames('profile__description', `profile__description--${status}`)}
       size="l"
     >
-      I’m Zach, I currently live in the UK studying at highschool. On top of this I currently
+      I’m Zach, I currently live in the UK studying at highschool. On top of this I 
       manage and develop {' '} <Link href="https://radaraio.com/">Radar AIO</Link>. 
       My previous projects include various Python Programs, Javascript / Node.js Applications using the electron framework and basic HTML + CSS sites
       which can all be found on my {' '} <Link href="https://github.com/SandalDev">Github</Link>.
