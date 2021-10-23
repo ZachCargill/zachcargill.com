@@ -12,7 +12,7 @@ function Monogram({ highlight, className, ...props }) {
       className={classNames('monogram', className)}
       width="46"
       height="39"
-      viewBox="0 0 26 39"
+      viewBox="0 0 36 39"
       {...props}
     >
       <defs>

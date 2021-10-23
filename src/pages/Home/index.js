@@ -22,7 +22,7 @@ import iphone11 from 'assets/iphone-11.glb';
 import macbookPro from 'assets/macbook-pro.glb';
 import './index.css';
 
-const disciplines = ['Entrepreneur', 'Student', 'Crypto Trader', 'NFT Trader'];
+const disciplines = ['Entrepreneur', 'Student', 'Crypto Trader'];
 
 const Home = () => {
   const { status } = useRouteTransition();

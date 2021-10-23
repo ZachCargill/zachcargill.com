@@ -22,12 +22,12 @@ export const navLinks = [
 export const socialLinks = [
   {
     label: 'Twitter',
-    url: 'https://twitter.com/SandalDev',
+    url: 'https://twitter.com/zachcargill_',
     icon: 'twitter',
   },
   {
     label: 'Github',
-    url: 'https://github.com/SandalDev',
+    url: 'https://github.com/ZachCargill',
     icon: 'github',
   },
 ];
